@@ -1,5 +1,5 @@
 <template>
-    <div :class="['is-divider', placement]"
+    <div :class="['is-divider border-t border-gray-500', placement]"
         :data-title="title"/>
 </template>
 
